@@ -45,7 +45,7 @@ Two examples of Google Cloud products used in the ingest phase are Cloud storage
 
 The transform stage of a data pipeline represents action taken on a data source to adjust, modify, join, or customize a data source so that it matches a specific downstream data or reporting requirement. There are three main transformation patterns: extract and load, extract, load, and transform, and extract, transform, and load.
 
-The store stage of a data pipeline represents the last step when we deposit data in its final form. A data sync is the final stop in the data journey. It's where processed and transformed data is stored for future use, analysis, and decision-making. Two examples of Google Cloud products used in the store phase are BigQuery, a serverless data warehouse, and Bigtable, a highly scalable no SQL database.
+The store stage of a data pipeline represents the last step when we deposit data in its final form. A data sync is the final stop in the data journey. It's where processed and transformed data is stored for future use, analysis, and decision-making. 
 
 
 # Data formats
@@ -91,7 +91,7 @@ Dataplex is a comprehensive data management solution that allows you to centrall
 
 Dataplex lets you standardize and unify metadata, security policies, governance, classification, and data life cycle management across this distributed data.
 Another common use case is when your data is accessible only to data engineers, and is later refined and made available to data scientists and analysts.
-In this case, you can set up a lake to have the following: A raw zone for the data, which is accessed by data engineers and data scientists.
+You can set up a lake to have the following: A raw zone for the data, which is accessed by data engineers and data scientists.
 A curated zone for the data, which is accessed by all users.
 
 # Sharing Datasets using Analytics Hub
