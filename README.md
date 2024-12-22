@@ -27,6 +27,8 @@ Associate Data Practitioner Learning Path here: https://www.cloudskillsboost.goo
 
 Exam guide here: https://services.google.com/fh/files/misc/associate_data_practitioner_exam_guide_english.pdf
 
+More info in my [Medium article](https://medium.com/@jana_om/google-cloud-associate-data-practitioner-certification-exam-prep-guide-32576ce38370).
+
 -----------------
 
 ❗ **All notes and screenshots are from "Introduction to Data Engineering on Google Cloud" course, here is the [link](https://www.cloudskillsboost.google/paths/1336/course_templates/1157).**
