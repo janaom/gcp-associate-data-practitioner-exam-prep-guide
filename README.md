@@ -29,7 +29,7 @@ Exam guide here: https://services.google.com/fh/files/misc/associate_data_practi
 
 -----------------
 
-All notes and screenshots are from "Introduction to Data Engineering on Google Cloud" course, here is the [link](https://www.cloudskillsboost.google/paths/1336/course_templates/1157).
+❗ **All notes and screenshots are from "Introduction to Data Engineering on Google Cloud" course, here is the [link](https://www.cloudskillsboost.google/paths/1336/course_templates/1157).**
 
 ------------------------
 
